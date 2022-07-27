@@ -1,5 +1,10 @@
-// Quickly modify global styling by enabling or disabling optional features.
-$enable-rounded: true !default;
+$teal: #11CF47;
+$cyan: #11CF47;
 
-// Quick fix for Bootstrap v5.1.1 issue
-$zindex-offcanvas: 1051;
+$primary: $green;
+$secondary: $green;
+
+$enable-rounded:              false;
+$enable-shadows:              true;
+
+$zindex-offcanvas: 1051
